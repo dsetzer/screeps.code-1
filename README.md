@@ -1,15 +1,10 @@
 # Open Collaboration Society
+## ScreepsOCS/screeps.code
 
-VERSION 0.7.0 - May 2017
+This is the main OCS screeps AI, formerly known as *screeps.behaviour-action-pattern*. 
 
-[![slack](https://img.shields.io/badge/chat-on%20slack-blue.svg)](https://screeps.slack.com/messages/ocs/)
+There is also an [extension repo](https://github.com/ScreepsOCS/screeps.code.extension) with advanced code, formerly known as *screeps.ocs.internal*, which extends this repo, overriding some of the code. 
 
-We are also forming a [screeps game](https://screeps.com) player alliance, the Open Collaboration Society [OCS].  
-Please contact us on [slack](https://screeps.slack.com/messages/ocs) if you want to join the alliance.  
-If you don't have a screeps slack account yet, please click [here](http://chat.screeps.com/) to invite yourself, then join channel #ocs. 
+You may want to use the [package repo](https://github.com/ScreepsOCS/screeps.code.package) for merging both repos plus your custom overrides and additions. It also offers screeps deployment and some advanced functionalities. 
 
-[Public Repository](https://github.com/ScreepsOCS/screeps.behaviour-action-pattern)  
-[Wiki](https://github.com/ScreepsOCS/screeps.behaviour-action-pattern/wiki)  
-[OCS Constitution](https://screepsocs.github.io/screeps.ocs/OCS_Constitution)  
-[OCS on slack](https://screeps.slack.com/messages/ocs)  
-[Alliance map](http://www.leagueofautomatednations.com/a/OCS)   
+__This repo is locked!__ 
